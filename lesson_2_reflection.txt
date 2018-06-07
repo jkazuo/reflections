@@ -1,22 +1,29 @@
 What happens when you initialize a repository? Why do you need to do it?
-Quando inicializo um repositorio Ã© criado uma pasta .git contendo toda a estrutura do repositorio
+Quando inicializo um repositorio é criado uma pasta .git contendo toda a estrutura do repositorio
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-  Area de preparaÃ§Ã£o do diretorio de trabalho difere do repositorio pois nessa area
-coloco todas as mudanÃ§Ã£s que serÃ£o gravadas num unico bloco durante o commit.
-  Isso nos permite ter uma consistencia das alteraÃ§Ãµes que foram efetuadas.
+  Area de preparação do diretorio de trabalho difere do repositorio pois nessa area
+coloco todas as mudançãs que serão gravadas num unico bloco durante o commit.
+  Isso nos permite ter uma consistencia das alterações que foram efetuadas.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+  Utilizando os comandos git diff e git diff --staged conseguimos enxergar as alteraçoes realizadas
+  e assim efetuar o commit se necessario.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+  Branches são uteis para criar uma versão para testar uma nova caracteristica, 
+para incluir um novo idioma, corrigir um bug, etc.
+  Os branches ajudariam criando uma versão separada da versão principal.
 
 How do the diagrams help you visualize the branch structure?
+  Diagramas nos ajudam a visualizar a estrutura nos mostrando como as mudanças estão acontecendo
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+  O resultado do merging de dois branches é um unico branch.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
