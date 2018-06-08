@@ -2,3 +2,9 @@ When would you want to create a remote repository rather than keeping all your w
   Um repositorio remoto é melhor do que manter o trabalho local quando você deseja que outras pessoas
 trabalhem no mesmo projeto ou quando voce deseja compartihar o seu projeto com outros.
 
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+  Sempre vou querer fazer "pull" manualmente, pois assim terei controle de quando quero atualizar com o 
+repositorio remoto. Ou seja, quero controlar o momento certo para trazer localmente alguma alteração efetuada
+por outrem.
+
