@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
+  Um repositorio remoto é melhor do que manter o trabalho local quando você deseja que outras pessoas
+trabalhem no mesmo projeto ou quando voce deseja compartihar o seu projeto com outros.
+
