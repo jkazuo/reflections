@@ -8,3 +8,9 @@ automatically stay up-to-date with your remote repository?
 repositorio remoto. Ou seja, quero controlar o momento certo para trazer localmente alguma alteração efetuada
 por outrem.
 
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+  Forks: somente para repositorio remoto
+  Clones: somente para repositorio local
+  Branch: somente no mesmo repositorio
+  
