@@ -14,3 +14,6 @@ use one instead of another?
   Clones: somente para repositorio local
   Branch: somente no mesmo repositorio
   
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+  Evitar conflitos
